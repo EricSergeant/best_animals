@@ -1,0 +1,4 @@
+wolf
+deer
+rabbit
+fox
